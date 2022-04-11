@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\bin\Debug\net6.0\CircleCalculator.exe
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\bin\Debug\net6.0\CircleCalculator.deps.json
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\bin\Debug\net6.0\CircleCalculator.runtimeconfig.json
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\bin\Debug\net6.0\CircleCalculator.dll
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\bin\Debug\net6.0\CircleCalculator.pdb
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.AssemblyInfo.cs
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.dll
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\refint\CircleCalculator.dll
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.pdb
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\CircleCalculator.genruntimeconfig.cache
+C:\Users\Nick\source\repos\CircleCalculator\CircleCalculator\obj\Debug\net6.0\ref\CircleCalculator.dll
